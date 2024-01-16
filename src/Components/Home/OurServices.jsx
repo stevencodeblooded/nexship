@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import serviceVan from '../../assets/ServiceDeliveryVan.png'
+import serviceVan from '../../assets/serviceDeliveryVan.png'
 
 const OurServices = () => {
   return (
